@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="next_button">NEXT</string>
+    <string name="prev_button">PREV</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="question_oceans">一加一等于二对不？</string>
+    <string name="question_mideast">二加二等于三对不？</string>
+    <string name="question_africa">三加三等于六对不？</string>
+    <string name="question_americas">五加五等于十对不？</string>
+    <string name="question_asia">四加四等于七对不？</string>
+
+    <string name="wraning_text">Are you sure you want to do this?</string>
+    <string name="show__answer_button">SHOW ANSWER</string>
+    <string name="cheat_button">CHEAT</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+</resources>
